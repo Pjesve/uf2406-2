@@ -34,9 +34,11 @@ class FuncionesTest {
 
 		
 	}
+	
 	@Test
 	void esbisiesto2() {
-	if ((anio % 4 == 0) ;
+	int anyo;
+	if ((anyo % 4 == 0) ;
 		System.out.println("true");
 	else
 		System.out.println("false");
